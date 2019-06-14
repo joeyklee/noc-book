@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "magicbook-codesplit": "0.1.2",
-    "magicbook-katex": "0.0.4"
+    "magicbook-codesplit": "0.1.5",
+    "magicbook-katex": "0.0.6"
   }
 }
